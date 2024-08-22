@@ -24,7 +24,7 @@
     "@radix-ui/react-switch": "^1.0.3",
     "@svgr/webpack": "^6.5.1",
     "@vercel/analytics": "^0.1.11",
-    "@vercel/speed-insights": "^1.0.2",
+    "@vercel/speed-insights": "^1.0.12",
     "classnames": "^2.5.1",
     "dayjs": "^1.11.10",
     "emoji-picker-react": "^4.9.2",
