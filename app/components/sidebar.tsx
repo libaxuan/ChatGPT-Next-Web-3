@@ -184,7 +184,7 @@ export function SideBar(props: { className?: string }) {
           <div className={styles["sidebar-sub-title"]}>
             享受私人AI助理.
             <a
-                href="https://freetimeai.eu.org/business.html"
+                href="https://freetimeai.eu.org"
                 target="_blank"
                 rel="noopener noreferrer"
             >
@@ -194,11 +194,11 @@ export function SideBar(props: { className?: string }) {
           <div className={styles["sidebar-sub-title"]}>
             防失联----：
             <a
-                href="https://autoaigpt.eu.org/"
+                href="https://globalnextai.cn/"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() =>
-                    addBookmark("https://autoaigpt.eu.org/", "FreeTimeAI - 收藏")
+                    addBookmark("https://globalnextai.cn/", "FreeTimeAI - 收藏")
                 }
             >
               防失联收藏

@@ -108,7 +108,7 @@ export default MenuLayout(function SessionList(props) {
               <div className={styles["sidebar-sub-title"]}>
                 <div>
                   <a
-                      href="https://freetimeai.eu.org/business.html"
+                      href="https://freetimeai.eu.org"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "#007bff", fontWeight: "bold" }}
@@ -117,13 +117,13 @@ export default MenuLayout(function SessionList(props) {
                   </a>
                   <br />
                   <a
-                      href="https://autoaigpt.eu.org/"
+                      href="https://globalnextai.cn/"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "#007bff", fontWeight: "bold" }}
                       onClick={() =>
                           addBookmark(
-                              "https://autoaigpt.eu.org/",
+                              "https://globalnextai.cn/",
                               "FreeTimeAI - 收藏",
                           )
                       }
